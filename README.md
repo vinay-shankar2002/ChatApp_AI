@@ -5,7 +5,7 @@ This is a React-based AI chat application using OpenAI's API with TailwindCSS st
 ## Features
 
 - Prompt input and AI response
-- OpenAI API key support (stored in memory)
+- HuggingFace API key support (stored in memory)
 - Chat UI with timestamps
 - Error handling and loading states
 - TailwindCSS + Lucide-react integration
